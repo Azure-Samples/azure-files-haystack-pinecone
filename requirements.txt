@@ -1,0 +1,9 @@
+haystack-ai
+pinecone-haystack
+pinecone
+pypdf
+python-docx
+azure-identity
+azure-storage-file-share
+python-dotenv
+requests
